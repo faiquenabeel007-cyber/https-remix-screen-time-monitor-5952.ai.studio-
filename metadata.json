@@ -1,0 +1,8 @@
+{
+  "name": "Remix Screen Time Monitor",
+  "description": "Screen time tracking, daily limit enforcement with audio/visual alarms, mental health digital wellbeing tips, multi-device sync guide, and encrypted privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
